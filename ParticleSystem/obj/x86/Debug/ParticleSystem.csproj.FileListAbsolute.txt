@@ -1,0 +1,12 @@
+D:\Projects\ParticleSystem\ParticleSystem\ParticleSystem\bin\x86\Debug\ParticleSystem.exe
+D:\Projects\ParticleSystem\ParticleSystem\ParticleSystem\bin\x86\Debug\ParticleSystem.pdb
+D:\Projects\ParticleSystem\ParticleSystem\ParticleSystem\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Projects\ParticleSystem\ParticleSystem\ParticleSystem\obj\x86\Debug\ParticleSystem.exe
+D:\Projects\ParticleSystem\ParticleSystem\ParticleSystem\obj\x86\Debug\ParticleSystem.pdb
+D:\Projects\ParticleSystem\ParticleSystem\ParticleSystem\bin\x86\Debug\Content\pixel.xnb
+D:\Projects\ParticleSystem\ParticleSystem\ParticleSystem\bin\x86\Debug\Content\MainFont.xnb
+D:\Projects\ParticleSystem\ParticleSystem\ParticleSystem\obj\x86\Debug\ParticleSystem.ResChooser.resources
+D:\Projects\ParticleSystem\ParticleSystem\ParticleSystem\bin\x86\Debug\Content\back.xnb
+D:\Projects\ParticleSystem\ParticleSystem\ParticleSystem\bin\x86\Debug\Content\cursor.xnb
+D:\Projects\ParticleSystem\ParticleSystem\ParticleSystem\obj\x86\Debug\ParticleSystem.csprojResolveAssemblyReference.cache
+D:\Projects\ParticleSystem\ParticleSystem\ParticleSystem\obj\x86\Debug\ParticleSystem.csproj.GenerateResource.Cache

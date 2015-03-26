@@ -1,0 +1,4 @@
+Content\pixel.xnb
+Content\MainFont.xnb
+Content\back.xnb
+Content\cursor.xnb
